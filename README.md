@@ -38,7 +38,7 @@ Streamlit (app.py)
 - Инструмент описан в формате function calling; модель сама пишет код,
   приложение его выполняет и возвращает вывод обратно в модель.
 
-Модель: `nvidia/nemotron-3-ultra-550b-a55b:free` через OpenRouter (поддерживает
+Модель: `nvidia/nemotron-3-super-120b-a12b:free` через OpenRouter (поддерживает
 tool calling).
 
 ## Структура проекта
